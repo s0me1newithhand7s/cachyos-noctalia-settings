@@ -9,6 +9,3 @@ scheme = "Synced"
 
 [auth]
 allow_empty_password = true
-
-[session]
-default = "Hyprland (uwsm-managed)"
